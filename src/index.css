@@ -31,6 +31,10 @@
 }
 
 @media (max-width: 991px) {
+  .navbar {
+    z-index: 1000; /* Added z-index */
+  }
+
   .navbar-brand {
     font-size: 1.5rem !important;
   }

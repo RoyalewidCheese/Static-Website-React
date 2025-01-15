@@ -9,6 +9,9 @@ import About from './Components/About'
 import Contact from './Components/Contact'
 import Services from './Components/Services'
 import Navbar from './Components/Navbar'
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle.min.js";
+
 
 
 const App = () => {
